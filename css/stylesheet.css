@@ -351,69 +351,6 @@ footer a:hover {
 		display: none;
 }
 
-/*.nav {
-	align-items: center;
-	background-color: #fff;
-	display: inline-flex;
-	font-family: 'Rubik', sans-serif;
-	font-weight: bold;
-	height: 80px;
-	list-style-type: none;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 0;
-	position: relative;
-	text-align: center;
-	width: 100%;
-}
-
-.nav li {
-	margin: 4%;
-	text-align: center;
-	width: 25%;
-}
-
-.nav a {
-	text-decoration: none;
-	color: #777;
-}
-
-.nav a:hover {
-	color: #000;
-}*/
-
-/*
-.card {
-	float: left;
-	margin-bottom: -2px;
-	margin-top: -2px;
-	width: 33.3%;
-	overflow: hidden;
-	position: relative;
-}
-.card img {
-	z-index: 0;
-}
-
-.site-name {
-	background-color: rgba(255,133,51, 0.9);
-	color: #fff;
-	display: none;
-	font-family: 'Rubik', sans-serif;
-	font-size: 30px;
-	height: 73%;
-	left: 0;
-	overflow: hidden;
-	padding-top: 20%;
-	position: absolute;
-	top: 0;
-	width: 100%;
-	z-index: 1;
-}
-
-.card:hover .site-name {
-	display: block;
-}*/
 
 @media (max-width: 580px) {
 
