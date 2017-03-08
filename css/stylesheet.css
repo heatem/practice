@@ -109,7 +109,7 @@ body {
 .card {
 	float: left;
 	margin-bottom: -2px;
-	margin-top: -2px;
+	margin-top: -2.5px;
 	width: 33.33%;
 	overflow: hidden;
 	position: relative;
@@ -125,7 +125,7 @@ body {
 	display: none;
 	font-family: 'Rubik', sans-serif;
 	font-size: 30px;
-	height: 73%;
+	height: 72.8%;
 	left: 0;
 	overflow: hidden;
 	padding-top: 20%;
