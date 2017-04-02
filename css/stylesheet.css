@@ -145,7 +145,6 @@ body {
 
 #blog-card-area {
 	background-color: #fff;
-	/*float: left;*/
 	margin: -2px;
 	overflow: hidden;
 	padding: 20px;
@@ -155,7 +154,6 @@ body {
 .blog-card {
 	float: left;
 	font-family: 'Rubik', sans-serif;
-	height: 334px;
 	width: 25%;
 }
 
@@ -338,12 +336,12 @@ footer a:hover {
 	}
 
 	.site-name {
-		height: 72.5%;
+		height: 72.6%;
 	}
 
 	.blog-card {
 		float: left;
-		height: 334px;
+		/*height: 334px;*/
 		width: 50%;
 	}
 
@@ -360,6 +358,7 @@ footer a:hover {
 
 
 	.card {
+		/*margin-bottom: ;*/
 		width: 100%;
 	}
 
