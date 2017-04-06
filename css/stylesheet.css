@@ -347,10 +347,83 @@ footer a:hover {
 
 	#blog-card-area > div:nth-child(3) {
 		display: none;
+	}
 }
 
+/* --- Breakpoint 580px --- */
 
 @media (max-width: 580px) {
+
+	.nav {
+		height: 200px;
+	}
+
+
+	.card {
+		/*margin-bottom: ;*/
+		width: 100%;
+	}
+
+	.blog-card {
+		float: center;
+		/*height: 334px;*/
+		width: 100%;
+	}
+
+	#blog-card-area > div:nth-child(2) {
+		display: none;
+	}
+}
+
+/*-- Mobile Breakpoint 1000px --*/
+@media only screen and (max-device-width: 1000px) {
+	.blog-card {
+		float: left;
+		/*height: 334px;*/
+		width: 33.3%;
+	}
+
+	#blog-card-area > div:nth-child(4) {
+		display: none;
+	}
+}
+
+/*-- Mobile Breakpoint 780px --*/
+@media only screen and (max-device-width: 780px) {
+	.nav {
+		display: inline-block;
+		height: 220px;
+	}
+
+	.nav li {
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 100%;
+	}
+
+	.card {
+		width: 50%;
+		margin-bottom: -3px;
+		margin-top: -2px;
+	}
+
+	.site-name {
+		height: 72.6%;
+	}
+
+	.blog-card {
+		float: left;
+		/*height: 334px;*/
+		width: 50%;
+	}
+
+	#blog-card-area > div:nth-child(3) {
+		display: none;
+	}
+}
+
+/* --- Mobile Breakpoint 580px --- */
+@media only screen and (max-device-width: 580px) {
 
 	.nav {
 		height: 200px;
